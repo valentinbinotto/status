@@ -29,6 +29,7 @@ status-website:
   cname: status.v434project.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/v434logosvg.svg
+  faviconSvg: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/v434logosvg.svg
   name: V434 Project
   introTitle: "**V434 Project** status page"
   introMessage:
