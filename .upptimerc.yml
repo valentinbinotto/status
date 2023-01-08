@@ -5,12 +5,16 @@ repo: status
 sites:
   - name: v4zen.com
     url: https://v4zen.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: v434project.com
+    url: https://v434project.com
   - name: v434.net
     url: https://v434.net
+  - name: V434Space
+    url: https://v434.cloud.mattermost.com
+  - name: blog.vlentin.com
+    url: https://blog.vlentin.com
+  - name: v4jp.com
+    url: https://v4jp.com
 
 status-website:
   theme: light
@@ -19,7 +23,7 @@ status-website:
   cname: status.v434project.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: V434 Project - Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
