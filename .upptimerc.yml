@@ -3,14 +3,14 @@ owner: valentinbinotto
 repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: v4zen.com
+    url: https://v4zen.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: v434.net
+    url: https://v434.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
