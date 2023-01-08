@@ -35,9 +35,6 @@ status-website:
       href: /
     - title: Webpage
       href: https://v434project.com
-  metaTags:
-    - name: "robots"
-      content: "noindex"
-
+ 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
