@@ -94,19 +94,19 @@
     "url": "https://v4jp.com",
     "icon": "https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png",
     "slug": "v4jp-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 713,
-    "timeWeek": 660,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 668,
+    "timeDay": 735,
+    "timeWeek": 668,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2023-01-10": 0
+      "2023-01-10": 38
     }
   }
 ]
