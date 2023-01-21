@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 164,
-    "timeWeek": 157,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "time": 161,
+    "timeDay": 157,
+    "timeWeek": 155,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 146,
-    "timeWeek": 135,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "time": 158,
+    "timeDay": 165,
+    "timeWeek": 144,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png",
     "slug": "v434-net",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 158,
     "timeDay": 142,
     "timeWeek": 142,
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-01-21": 7
+      "2023-01-21": 12
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 232,
-    "timeWeek": 301,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 263,
+    "timeDay": 202,
+    "timeWeek": 282,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 441,
-    "timeWeek": 355,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "time": 385,
+    "timeDay": 391,
+    "timeWeek": 343,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -102,15 +102,33 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
-    "time": 649,
-    "timeDay": 385,
-    "timeWeek": 604,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "time": 633,
+    "timeDay": 318,
+    "timeWeek": 569,
+    "timeMonth": 633,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2023-01-19": 9,
       "2023-01-15": 9,
       "2023-01-10": 38
     }
+  },
+  {
+    "name": "v434infra.org",
+    "url": "http://v434infra.org/",
+    "icon": "https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png",
+    "slug": "v434infra-org",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
+    "dailyMinutesDown": {}
   }
 ]
