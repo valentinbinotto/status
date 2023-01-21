@@ -35,7 +35,8 @@ status-website:
       href: /
     - title: Webpage
       href: https://v434project.com
-      status-website:
+    - title: Privacy
+      href: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/privacy_github.txt
   metaTags:
     - name: "robots"
       content: "noindex"
