@@ -19,7 +19,7 @@ sites:
     url: https://blog.vlentin.com
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
   - name: v4jp.com
-    url: https://v4jp.com
+    url: https://v4jp.com/uptimetest
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
 
 status-website:
@@ -35,6 +35,10 @@ status-website:
       href: /
     - title: Webpage
       href: https://v434project.com
+      status-website:
+  metaTags:
+    - name: "robots"
+      content: "noindex"
  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
