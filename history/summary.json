@@ -22,9 +22,9 @@
     "url": "https://v434project.com",
     "icon": "https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png",
     "slug": "v434project-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 146,
     "timeMonth": 154,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 0
+    }
   },
   {
     "name": "V434Space",
@@ -77,11 +79,11 @@
     "icon": "https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png",
     "slug": "v4jp-com",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 523,
     "timeDay": 186,
     "timeWeek": 153,
