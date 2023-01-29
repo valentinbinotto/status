@@ -6,8 +6,8 @@ sites:
   - name: v4zen.com
     url: https://v4zen.com
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
-  - name: v434project.com
-    url: https://v434project.com
+  - name: v434project.org
+    url: https://v434project.org
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
   - name: V434Space
     url: https://v434.cloud.mattermost.com
@@ -27,7 +27,7 @@ sites:
 
 status-website:
   theme: light
-  cname: status.v434project.com
+  cname: status.v434project.org
   logoUrl: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/v434logosvg.svg
   favicon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
   name: V434 Project
@@ -37,7 +37,7 @@ status-website:
     - title: Status
       href: /
     - title: Webpage
-      href: https://v434project.com
+      href: https://v434project.org
     - title: Privacy
       href: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/privacy_github.txt
   metaTags:
