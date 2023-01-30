@@ -26,7 +26,7 @@ sites:
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
 
 status-website:
-  theme: light
+  theme: ocean
   cname: status.v434project.org
   logoUrl: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/v434logosvg.svg
   favicon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
