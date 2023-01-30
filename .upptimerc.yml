@@ -3,8 +3,8 @@ owner: valentinbinotto
 repo: status
 
 sites:
-  - name: v4zen.com
-    url: https://v4zen.com
+  - name: v4zen.org
+    url: https://v4zen.org
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
   - name: v434project.org
     url: https://v434project.org
