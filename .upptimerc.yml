@@ -18,8 +18,8 @@ sites:
   - name: v4jp.com
     url: https://v4jp.com/uptimetest
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
-  - name: v434infra.org
-    url: http://v434infra.org/
+  - name: v434infranet.net
+    url: http://v434infranet.net/
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
   - name: v434infranet.org
     url: http://v434infranet.org/
