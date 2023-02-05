@@ -9,9 +9,6 @@ sites:
   - name: v434project.org
     url: https://v434project.org
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
-  - name: V434Space
-    url: https://v434.cloud.mattermost.com
-    icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
   - name: blog.vlentin.com
     url: https://blog.vlentin.com
     icon: https://raw.githubusercontent.com/valentinbinotto/status/master/assets/icon.png
